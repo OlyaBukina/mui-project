@@ -1,1 +1,1 @@
-# My React template for futures projects
+# Project for testing Material UI
